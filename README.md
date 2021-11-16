@@ -16,7 +16,7 @@ Lớp: KHCL2021.1
 
 Trường: Đại học Công nghệ thông tin – ĐHQGHCM
 
-*TP.Mỹ Tho, Tiền Giang
+Nơi ở: TP.Mỹ Tho, Tiền Giang
 
 Sở thích: nghe nhạc, xem phim, game, du lịch,…
 
