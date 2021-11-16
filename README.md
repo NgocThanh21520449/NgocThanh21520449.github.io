@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 
-                       HELLO EVERYONE !!!
+                      ### HELLO EVERYONE !!!###
 
 ### Thông tin:
 
@@ -16,7 +16,7 @@ Lớp: KHCL2021.1
 
 Trường: Đại học Công nghệ thông tin – ĐHQGHCM
 
-Đến từ TP Mỹ Tho
+*TP.Mỹ Tho, Tiền Giang
 
 Sở thích: nghe nhạc, xem phim, game, du lịch,…
 
