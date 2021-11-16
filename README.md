@@ -14,6 +14,8 @@ Ngành học: Khoa học máy tính
 
 Trường: Đại học Công nghệ thông tin – ĐHQGHCM
 
+Đến từ TP Mỹ Tho, Tiền Giang
+
 Sở thích: nghe nhạc, xem phim, game, du lịch,…
 
 ### Đang học:
