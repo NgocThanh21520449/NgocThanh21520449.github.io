@@ -1,5 +1,5 @@
 # NgocThanh21520449.github.io
-                WELCOME TO MY PAGE
+                CHÀO CÁC BẠN !!!
 -----------------------------------------------------
 
 Tên: Huỳnh Võ Ngọc Thanh
