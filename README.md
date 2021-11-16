@@ -1,6 +1,6 @@
 ----------------------------------------------------------------   
 
-                       HELLO EVERYONE !!! 
+                         HELLO EVERYONE !!! 
                                                                                                                     
      
      
@@ -27,6 +27,7 @@ Sở thích: nghe nhạc, xem phim, game, du lịch,…
 Ngoại ngữ: TOEIC
 
 Code: C++ , Python
-### Liên hệ tại đây:
+### Facebook của mình:
+
 https://www.facebook.com/huynh.v.thanh.9/
 
