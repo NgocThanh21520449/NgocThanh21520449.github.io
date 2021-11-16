@@ -24,7 +24,7 @@ Sở thích: nghe nhạc, xem phim, game, du lịch,…
 
 Ngoại ngữ: TOEIC
 
-Code: C++ , Pyhton
+Code: C++ , Python
 ### Liên hệ tại đây:
 https://www.facebook.com/huynh.v.thanh.9/
 
