@@ -2,7 +2,7 @@
                                                                -
                        HELLO EVERYONE !!!                      -
                                                                -
-                   ĐÂY LÀ TRANG CỦA MÌNH NHA                   -
+                                                               -
                                                                -
 ### Thông tin:                                                 -
                                                                -
