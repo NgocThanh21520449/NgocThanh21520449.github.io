@@ -1,9 +1,11 @@
 ----------------------------------------------------------------
-
-                      ### HELLO EVERYONE !!!###
-
-### Thông tin:
-
+                                                               -
+                       HELLO EVERYONE !!!                      -
+                                                               -
+                   ĐÂY LÀ TRANG CỦA MÌNH NHA                   -
+                                                               -
+### Thông tin:                                                 -
+                                                               -
 Họ và tên: HUỲNH VÕ NGỌC THANH
 
 Sinh nhật: 07/06/2003
