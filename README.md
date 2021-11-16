@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-HELLO EVERYONE !!!
+                       HELLO EVERYONE !!!
 
-Thông tin:
+### Thông tin:
 
 Họ và tên: HUỲNH VÕ NGỌC THANH
 
@@ -15,9 +15,10 @@ Trường: Đại học Công nghệ thông tin – ĐHQGHCM
 
 Sở thích: nghe nhạc, xem phim, game, du lịch,…
 
-Đang học:
+### Đang học:
 
 Ngoại ngữ: TOEIC
 
 Code: C++ , Pyhton
+### Liên hệ tại đây: https://www.facebook.com/huynh.v.thanh.9/
 
