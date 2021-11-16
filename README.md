@@ -12,9 +12,11 @@ MSSV: 21520449
 
 Ngành học: Khoa học máy tính
 
+Lớp: KHCL2021.1
+
 Trường: Đại học Công nghệ thông tin – ĐHQGHCM
 
-Đến từ TP Mỹ Tho, Tiền Giang
+Đến từ TP Mỹ Tho
 
 Sở thích: nghe nhạc, xem phim, game, du lịch,…
 
